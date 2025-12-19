@@ -69,7 +69,7 @@ Earlier at Concentrix, our focus was on operational excellence through effective
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amarendranayak149&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarendranayak149&show_icons=true&theme=swift&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amarendranayak149&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarendranayak149&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=amarendranayak149&limit=5&theme=dark&combine_all_yearly_contributions=true)
